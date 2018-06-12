@@ -1,2 +1,2 @@
-# Unity Memory Game
-A match-two memory game created on unity
+# Unity Memory Game Scripts
+The scripts of a match-two memory game created on unity
